@@ -1,3 +1,5 @@
 dist/
 *.zip
 repo*.json
+__pycache__/
+*.pyc
